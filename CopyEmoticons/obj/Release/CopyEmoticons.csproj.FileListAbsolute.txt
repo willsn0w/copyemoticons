@@ -1,0 +1,9 @@
+C:\Users\athos_000\Dropbox\CopyEmoticons\CopyEmoticons\obj\Release\CopyEmoticons.csprojResolveAssemblyReference.cache
+C:\Users\athos_000\Dropbox\CopyEmoticons\CopyEmoticons\obj\Release\CopyEmoticons.Principal.resources
+C:\Users\athos_000\Dropbox\CopyEmoticons\CopyEmoticons\obj\Release\CopyEmoticons.Properties.Resources.resources
+C:\Users\athos_000\Dropbox\CopyEmoticons\CopyEmoticons\obj\Release\CopyEmoticons.csproj.GenerateResource.Cache
+C:\Users\athos_000\Dropbox\CopyEmoticons\CopyEmoticons\bin\Release\Copy Emoticons.exe.config
+C:\Users\athos_000\Dropbox\CopyEmoticons\CopyEmoticons\bin\Release\Copy Emoticons.exe
+C:\Users\athos_000\Dropbox\CopyEmoticons\CopyEmoticons\bin\Release\Copy Emoticons.pdb
+C:\Users\athos_000\Dropbox\CopyEmoticons\CopyEmoticons\obj\Release\Copy Emoticons.exe
+C:\Users\athos_000\Dropbox\CopyEmoticons\CopyEmoticons\obj\Release\Copy Emoticons.pdb
